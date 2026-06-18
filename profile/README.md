@@ -82,6 +82,8 @@ Download the latest KariosOS release from the Releases page.
 
 Detailed installation instructions are available in [INSTALL.md](INSTALL.md).
 
+Find the documentation [here](https://karios-os.github.io/docs/getting-started/index.html).
+
 ---
 
 ## Core Capabilities
