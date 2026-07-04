@@ -91,7 +91,7 @@ _(Add instructions here on how to build the project locally, run tests, and spin
 
 **Join the conversation** — come talk infrastructure, ask questions, share what you're building, and connect with other contributors.
 
-- [Join our Discord](https://discord.gg/INVITE_LINK_HERE) — community discussions, Q&A, and announcements
+- [Join our Talkyard](https://kariosos.talkyard.net/latest) — community discussions, Q&A, and announcements
 - [GitHub Discussions](https://github.com/karios-os/karios-apis/discussions) — long-form technical discussions and RFCs
 - [GitHub Issues](https://github.com/karios-os/karios-apis/issues) — bug reports and feature requests
 
