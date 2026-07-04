@@ -179,6 +179,8 @@ We welcome operators, developers, infrastructure engineers, and contributors.
 - Improve Documentation
 - Contribute Code
 
+All community spaces — GitHub, the Discourse forum, and chat channels — are governed by our [Code of Conduct](../CODE_OF_CONDUCT.md).
+
 ---
 
 ## Open Source Promise: Apache 2.0 & No CLAs
@@ -240,6 +242,8 @@ All submissions are reviewed by project maintainers.
 |----------|-------------|
 | [LICENSE](../LICENSE) | Apache License 2.0 — the full license terms for KariosOS |
 | [NOTICE](../NOTICE) | Copyright notice and third-party attribution |
+| [TERMS.md](../TERMS.md) | Terms of Service for the Software, website, and community services |
+| [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) | Community standards for all Karios OS spaces |
 | [CONTRIBUTING.md](../CONTRIBUTING.md) | How to contribute, DCO sign-off guide, and PR process |
 | [PULL_REQUEST_TEMPLATE.md](../PULL_REQUEST_TEMPLATE.md) | Checklist applied automatically to every pull request |
 | [FREEBSD-COPYRIGHT-NOTICE.txt](../FREEBSD-COPYRIGHT-NOTICE.txt) | FreeBSD copyright notice and attribution |
