@@ -6,7 +6,7 @@
 
 Effective Date: July 1, 2026 | Last Updated: July 1, 2026
 
-Website: [kariossos.org](https://kariossos.org)
+Website: [kariosos.org](https://kariosos.org)
 
 Repository: [github.com/karios-os](https://github.com/karios-os)
 
@@ -153,7 +153,7 @@ Because the Software is licensed under the permissive Apache License, you do not
 - Access to KARIOS-maintained proprietary add-ons, integrations, or private repositories not published under the Apache License;
 - Custom contractual terms, volume deployment agreements, or OEM arrangements.
 
-To inquire about Enterprise Licensing, contact us at info@kariossos.org or visit https://kariosos.org/contact/.
+To inquire about Enterprise Licensing, contact us at info@kariosos.org or visit https://kariosos.org/contact/.
 
 ### 16. Term and Termination
 
@@ -175,7 +175,7 @@ These Terms, together with the Apache License, constitute the entire agreement b
 
 ### 20. Contact Us
 
-For general community conduct questions, contact the maintainers at info@kariossos.org.
+For general community conduct questions, contact the maintainers at info@kariosos.org.
 
 For legal questions about these Terms or the Apache License, contact us at legal@karios.com.
 
